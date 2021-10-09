@@ -1,0 +1,10 @@
+---
+
+exclude:
+   - CNAME
+
+layouts_dir: base/_layouts
+
+sass:
+   sass_dir: base/_sass
+   style: compressed
