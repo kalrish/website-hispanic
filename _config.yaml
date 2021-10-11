@@ -2,6 +2,7 @@
 
 exclude:
    - CNAME
+   - base/*.html
 
 layouts_dir: base/_layouts
 
